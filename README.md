@@ -1,6 +1,6 @@
 # nanogpt-selma-lagerlof
 ## Overview
-This is a small NanoGPT implementation inspired by the [lecture given by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY). 
+This is a small [nanoGPT](https://github.com/karpathy/nanoGPT) implementation inspired by the [lecture given by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY) using a swedish language dataset. 
 
 ## Data
 The dataset used to trained this model is in swedish and consists of some of the work of swedish author [Selma Lagerlöf](https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f).
